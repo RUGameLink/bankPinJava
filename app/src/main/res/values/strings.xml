@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">bankPinJava</string>
+    <string name="clear"></string>
+    <string name="Forgot_password">Забыли пароль?</string>
+    <string name="password_text">Введите пароль</string>
+    <string name="error_password">Неверный пароль!</string>
+    <string name="replay_password">Повторите введенный пароль</string>
+    <string name="create_password">Придумайте пароль для входа</string>
+
+    <string name="add_card">Добавить карту</string>
+    <string name="select_name">Введите название карты</string>
+    <string name="not_full_text">Поля заполнены не полностью!</string>
+    <string name="add_text">Добавить</string>
+
+    <string name="card_name">Название карты</string>
+    <string name="card_pin">PIN-код карты</string>
+    <string name="delete_text">Удалить все</string>
+</resources>
